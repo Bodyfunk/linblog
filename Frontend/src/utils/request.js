@@ -3,7 +3,7 @@ import store from '@/store'
 
 // create an axios instance
 const service = axios.create({
-    baseURL: "http://101.34.253.86:3002",
+    baseURL: "http://192.168.2.6:5002",
 })
 
 // request interceptor

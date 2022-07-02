@@ -37,11 +37,11 @@
     />
   </video>
 </vue-plyr> -->
-        <vue-core-video-player
+        <!-- <vue-core-video-player
           :core="HLSCore"
           aria-controls="fixed"
           src="http://localhost:5002/video/imagine.m3u8"
-        ></vue-core-video-player>
+        ></vue-core-video-player> -->
       </div>
 
       <!--焦点图-->
